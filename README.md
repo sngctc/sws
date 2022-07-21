@@ -1,0 +1,2 @@
+# sws
+for gmod
